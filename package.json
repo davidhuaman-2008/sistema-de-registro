@@ -1,0 +1,26 @@
+{
+  "name": "sistema-de-registro",
+  "version": "1.0.0",
+  "description": "<h1>Sistema de Registro</h1>\r -Estado del proyecto en ejecucion\r para ejecutar el sistema debes poner :\r ''' npm install react'''",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidhuaman-2008/sistema-de-registro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/davidhuaman-2008/sistema-de-registro/issues"
+  },
+  "homepage": "https://github.com/davidhuaman-2008/sistema-de-registro#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "xlsx": "^0.18.5"
+  }
+}
